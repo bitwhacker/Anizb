@@ -1,0 +1,6 @@
+[submodule "lib/py3anidb"]
+	path = lib/py3anidb
+	url = https://github.com/bitwhacker/py3anidb.git
+[submodule "lib/py3utils"]
+	path = lib/py3utils
+	url = https://github.com/bitwhacker/py3utils.git
